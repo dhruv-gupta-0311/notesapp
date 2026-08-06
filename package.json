@@ -34,7 +34,6 @@
   },
   "overrides": {
     "lodash": "^4.17.21",
-    "brace-expansion": "^2.0.1",
     "immutable": "^4.3.9"
   }
 }
